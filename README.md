@@ -1,1 +1,5 @@
-ml_workspace 자료 출처: WHO 세계 코로나 누적 확진자 데이터셋, World Happiness 세계 행복지수 보고서
+[ml_workspace data source]
+-https://worldhappiness.report/
+-https://covid19.who.int/data
+-https://www.kaggle.com/datasets/mathurinache/world-happiness-report?resource=download&select=2022.csv
+-https://www.kaggle.com/datasets/ajaypalsinghlo/world-happiness-report-2023?resource=download
